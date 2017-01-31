@@ -24,7 +24,4 @@ mkdir build
 then open the XCode project in the build folder and run from there.
 
 ###On Windows
-There is some way to use CMake on Windows but I am not familiar with it.
-
-##Blog Article:
-- [Using Fabian Timm's Algorithm](http://thume.ca/projects/2012/11/04/simple-accurate-eye-center-tracking-in-opencv/)
+If you build it on Windows, please share the way you did it
