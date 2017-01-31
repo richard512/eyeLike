@@ -1,5 +1,4 @@
-##eyeLike
-An OpenCV based webcam gaze tracker based on a simple image gradient-based eye center algorithm by Fabian Timm.
+##eyeLike: Eyeball tracker
 
 [![https://www.youtube.com/watch?v=aGmGyFLQAFM](https://img.youtube.com/vi/aGmGyFLQAFM/0.jpg)](https://www.youtube.com/watch?v=aGmGyFLQAFM)
 
